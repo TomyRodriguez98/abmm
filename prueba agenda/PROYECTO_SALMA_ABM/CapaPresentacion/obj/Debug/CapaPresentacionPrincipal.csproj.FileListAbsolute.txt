@@ -1,0 +1,78 @@
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaNegocio.dll
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacionPrincipal.csprojAssemblyReference.cache
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacionPrincipal.csproj.GenerateResource.cache
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacionPrincipal.csproj.CoreCompileInputs.cache
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacionPrincipal.csproj.CopyComplete
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaDatos.dll
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaDatos.pdb
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacionPrincipal.Form1Principal.resources
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.Venta.resources
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.FormCategorias.resources
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.FormCliente.resources
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.EditarCliente.resources
+D:\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacionPrincipal.csprojAssemblyReference.cache
+D:\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.EditarCliente.resources
+D:\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.FormCategorias.resources
+D:\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.FormCliente.resources
+D:\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.Venta.resources
+D:\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacionPrincipal.Form1Principal.resources
+D:\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacionPrincipal.csproj.GenerateResource.cache
+D:\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacionPrincipal.csproj.CoreCompileInputs.cache
+D:\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacionPrincipal.csproj.CopyComplete
+D:\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacionPrincipal.csprojAssemblyReference.cache
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.EditarCliente.resources
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.FormCategorias.resources
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.FormCliente.resources
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.Venta.resources
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacionPrincipal.Form1Principal.resources
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacionPrincipal.csproj.GenerateResource.cache
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacionPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacionPrincipal.csproj.CopyComplete
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarCliente.resources
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacionPrincipal.csprojAssemblyReference.cache
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.EditarCliente.resources
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.EliminarCliente.resources
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.FormCategorias.resources
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.FormCliente.resources
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.Venta.resources
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacionPrincipal.Form1Principal.resources
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacionPrincipal.csproj.GenerateResource.cache
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacionPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacionPrincipal.csproj.CopyComplete
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

@@ -1,0 +1,36 @@
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaNegocio\bin\Debug\CapaNegocio.dll
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaNegocio\bin\Debug\CapaNegocio.pdb
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaNegocio\bin\Debug\CapaDatos.dll
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaNegocio\bin\Debug\CapaDatos.pdb
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaNegocio\obj\Debug\CapaNegocio.dll
+A:\TRABAJOS DE PROGRAMACION\PROYECTO_SALMA_ABM\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\PROYECTO_SALMA_ABM\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\PROYECTO_SALMA_ABM\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\PROYECTO_SALMA_ABM\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\PROYECTO_SALMA_ABM\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\PROYECTO_SALMA_ABM\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+D:\PROYECTO_SALMA_ABM\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\PROYECTO_SALMA_ABM\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\PROYECTO_SALMA_ABM\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\PROYECTO_SALMA_ABM\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Tomas\Documents\Visual Studio 2019\Proyectos de Programacion\PROYECTO_SALMA_ABM\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Tomas\Desktop\prueba agenda\PROYECTO_SALMA_ABM\CapaNegocio\obj\Debug\CapaNegocio.pdb
